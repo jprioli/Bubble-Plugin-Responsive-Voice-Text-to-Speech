@@ -1,0 +1,12 @@
+{
+    "categories": {
+        "0": "technical",
+        "1": "productivity"
+    },
+    "description": "Text to Speech plugin using Responsive Voice! NO SUPPORT PROVIDED, please contact Responsive Voice for help. I am in no way affiliated with Responsive Voice.",
+    "image": "//s3.amazonaws.com/appforest_uf/f1591573588827x826439404903197600/responsivevoice.com-logo-long-sm.png",
+    "license": "open_source",
+    "link": "responsivevoice.org/api",
+    "name": "Responsive Voice Text to Speech",
+    "plugin_instructions": "Please register an account with Responsive Voice, then in the dashboard fill out the form, and at the end you will receive a code. Enter the code in the Plugins tab for this plugin and done! The action is called Responsive Voice Text to Speech, simply just type in the Text or use a dynamic value and away you go!"
+}

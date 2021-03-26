@@ -1,0 +1,15 @@
+{
+    "category": "plugins",
+    "display": "Responsive Voice Text to Speech",
+    "fields": {
+        "AAP": {
+            "caption": "Text",
+            "editor": "DynamicValue",
+            "name": "Text",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "type": "client_side",
+    "use_packages": true
+}
